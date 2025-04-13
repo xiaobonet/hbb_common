@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["desk.qrup.fun"];
-pub const RS_PUB_KEY: &str = "Udu+aNnbt2ROcR8uqfyHzi4hvoCccewJrzHzHYvKiwE=";
+pub const RS_PUB_KEY: &str = "L3YVUXM0UP8VYmijTy7yooE9KyQ4EyO9xMMbwrOtLWA=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
